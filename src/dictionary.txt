@@ -1,0 +1,13 @@
+cut;cắt
+line;dòng
+kill;giết
+space;không gian
+remove;xóa bỏ
+minute;phút
+thanks;cảm ơn
+weith;cân nặng
+meet;đáp ứng
+fine;khỏe
+hello;chào
+time;thời gian
+write;viết
